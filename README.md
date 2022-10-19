@@ -13,7 +13,8 @@ There are two main files
 
 please run this file in jupyter notebook for results
 
-[https://github.com/PERAMRAMYA/machinelearing/blob/main/assignment2/700728550_ML_Assignment2.ipynb]Assignment2.ipynb
+Assignment2.ipynb
+
 # Student Info
 
 First Name: Ramya
